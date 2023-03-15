@@ -1,0 +1,36 @@
+.sidemenu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+}
+/* .menu {
+    background-color: #D8DFE8;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 29px      ;
+    -webkit-border-radius: 29px    ;
+    -moz-border-radius: 29px    ;
+    -ms-border-radius: 29px    ;
+    -o-border-radius: 29px    ;   
+    
+} */
+.email p {
+    font-size: 10px;
+}
+.chat p {
+    font-size: 10px;
+}
+.space p {
+    font-size: 10px;
+}
+.Meet p {
+    font-size: 10px;
+}
+.n {
+    margin-bottom: 2rem;
+}

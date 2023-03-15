@@ -1,0 +1,60 @@
+
+.logos {
+  
+    width: 100%;
+    height: 30px;
+    display: flex;
+}
+.logos img {
+    position: relative;
+    width:100px;
+    height: 30px;
+}
+.logos input {
+    margin-left: 8rem;
+    width: 38rem;
+    height: 50px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    background-color: #EAF1FB;
+    border: none;
+    outline: none;
+    padding: 0 33px;
+}
+.logos select {
+    margin-left: 2rem;
+    width: 110px;
+    height: 34px;
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: .4rem;
+}
+
+.logos svg {
+    margin-top: .5rem;
+    margin-left: 1.2rem;
+    width: 25px;
+    height: 25px;
+}
+.logos input:focus{
+    background-color:#FFF;
+    border: 2px solid #f3f3f3;
+}
+.searchicon {
+    top: 0;
+    position: absolute;
+    left: 118px;
+}
+.searchbox {
+    position: relative;
+}
