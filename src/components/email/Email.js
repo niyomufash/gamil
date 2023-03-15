@@ -9,7 +9,7 @@ const Email = ({expeditor, messageTitle, message, timestamp}) => {
       <p className='font-semibold truncate'>{messageTitle} -</p>
       <p className='pl-1 text-gray-500 truncate'>{message}</p>
       </div>
-      <p className='text-gray-500 w-[8rem] text-end'>{timestamp}</p>
+      <p className='text-gray-500 w-[8rem] text-end '>{timestamp}</p>
     </div> 
   )
 }

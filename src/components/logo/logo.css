@@ -22,7 +22,7 @@
     background-color: #EAF1FB;
     border: none;
     outline: none;
-    padding: 0 33px;
+    padding: 0 38px;
 }
 .logos select {
     margin-left: 2rem;
@@ -54,6 +54,12 @@
     top: 0;
     position: absolute;
     left: 118px;
+}
+
+.settingcon {
+    top: 0;
+    position: absolute;
+    right: 24px;
 }
 .searchbox {
     position: relative;

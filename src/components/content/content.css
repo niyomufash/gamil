@@ -10,6 +10,8 @@
     -moz-border-radius: 14px;
     -ms-border-radius: 14px;
     -o-border-radius: 14px;
+    height: 470px;
+    
 }
 .header {
     width: 92%;
@@ -50,4 +52,47 @@
     width: 100%;
     /* background-color: bisque; */
     margin-top: 40px;
+    height: 427px;
+    position: relative;    
+   
+}
+.titlebar {
+    display: flex;
+    /* background-color: aqua; */
+    width: 100%;
+    justify-content: left;
+    border-bottom: 2px solid #F8F8F8;
+    /* padding: 0 45px; */
+}
+.titlebar h3{
+    
+    padding: .6rem 5px;
+    color: #444746;
+}
+.primary {
+    width: 260px;
+    background-color: #FFFFFF;
+    display: flex;
+    padding: 0 1rem;
+    align-items: center;
+    gap: 1rem;
+}
+.promotions{
+    width: 260px;
+    background-color: #FFFFFF;
+    display: flex;
+    padding: 0 1rem;
+    align-items: center;
+    gap: 1rem;
+}
+.social {
+    width: 260px;
+    background-color: #FFFFFF;
+    display: flex;
+    padding: 0 1rem;
+    align-items: center;
+    gap: 1rem;
+}
+.title:hover {
+    background-color: #F4F4F4;
 }
