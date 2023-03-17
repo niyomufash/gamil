@@ -17,7 +17,7 @@ export default function Logo() {
         </div>
         
         <select>
-            <option>Active</option>
+            <option><span class="active"></span>Active</option>
             <option>hello</option>
             <option>hello</option>            
         </select>

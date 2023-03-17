@@ -1,0 +1,29 @@
+
+.ema {
+    
+}
+.ema:hover {
+    border-bottom: 1px solid #D3D9E0;
+    border-top: 1px solid #D3D9E0;
+    border-left: 1px solid #D3D9E0;
+    border-right: 1px solid #D3D9E0;
+    box-shadow: .4px .4px #D3D9E0;
+    right: 0;
+
+}
+.checkbox {
+   
+}
+.aaaaa {
+ 
+ /* justify-content: space-between; */
+}
+.nnnn {
+    width: 30px;
+    
+}
+.lightcon {
+    height: 100%;
+    align-items: center;
+    gap: 9px;
+}

@@ -69,7 +69,88 @@ const Emails = () => {
                      messageTitle:"New login to Twitter from ChromeMobileAndroid on Android", 
                      message: "You can ignore this message. There's no need to take any action.",
                      timestamp: "Nov 28"
+                     },,
+ 
+                     {
+                     expeditor:"Facebook",
+                     messageTitle:"Did you just reset your password?", 
+                     message: "This is to let you know that your password was just reset",
+                     timestamp: "Dec 2"
                      },
+ 
+                     { 
+                     expeditor:"Twitter",
+                     messageTitle:"New login to Twitter from ChromeMobileAndroid on Android", 
+                     message: "You can ignore this message. There's no need to take any action.",
+                     timestamp: "Nov 28"
+                     },,
+ 
+                     {
+                     expeditor:"Facebook",
+                     messageTitle:"Did you just reset your password?", 
+                     message: "This is to let you know that your password was just reset",
+                     timestamp: "Dec 2"
+                     },
+ 
+                     { 
+                     expeditor:"Twitter",
+                     messageTitle:"New login to Twitter from ChromeMobileAndroid on Android", 
+                     message: "You can ignore this message. There's no need to take any action.",
+                     timestamp: "Nov 28"
+                     },,
+ 
+                     {
+                     expeditor:"Facebook",
+                     messageTitle:"Did you just reset your password?", 
+                     message: "This is to let you know that your password was just reset",
+                     timestamp: "Dec 2"
+                     },
+ 
+                     { 
+                     expeditor:"Twitter",
+                     messageTitle:"New login to Twitter from ChromeMobileAndroid on Android", 
+                     message: "You can ignore this message. There's no need to take any action.",
+                     timestamp: "Nov 28"
+                     },,
+ 
+                     {
+                     expeditor:"Facebook",
+                     messageTitle:"Did you just reset your password?", 
+                     message: "This is to let you know that your password was just reset",
+                     timestamp: "Dec 2"
+                     },
+ 
+                     { 
+                     expeditor:"Twitter",
+                     messageTitle:"New login to Twitter from ChromeMobileAndroid on Android", 
+                     message: "You can ignore this message. There's no need to take any action.",
+                     timestamp: "Nov 28"
+                     },,
+ 
+                     { 
+                     expeditor:"Twitter",
+                     messageTitle:"New login to Twitter from ChromeMobileAndroid on Android", 
+                     message: "You can ignore this message. There's no need to take any action.",
+                     timestamp: "Nov 28"
+                     },,
+ 
+                     { 
+                     expeditor:"Twitter",
+                     messageTitle:"New login to Twitter from ChromeMobileAndroid on Android", 
+                     message: "You can ignore this message. There's no need to take any action.",
+                     timestamp: "Nov 28"
+                     },,
+ 
+                     { 
+                     expeditor:"Twitter",
+                     messageTitle:"New login to Twitter from ChromeMobileAndroid on Android", 
+                     message: "You can ignore this message. There's no need to take any action.",
+                     timestamp: "Nov 28"
+                     }
+
+
+
+
 
                      
                     
