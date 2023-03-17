@@ -4,7 +4,7 @@ import Emails from '../email/Emails'
 export default function Contents() {
   return (
     <div class="content">
-
+    
       
         <div class="header">
         <div class="firsticon">

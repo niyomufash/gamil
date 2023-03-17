@@ -4,21 +4,29 @@
     justify-content: center;
     padding: 1rem;
 }
-/* .menu {
-    background-color: #D8DFE8;
-    height: 50px;
-    width: 50px;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    border-radius: 29px      ;
-    -webkit-border-radius: 29px    ;
-    -moz-border-radius: 29px    ;
-    -ms-border-radius: 29px    ;
-    -o-border-radius: 29px    ;   
-    
-} */
+.menu{
+   background-color: #EAF1FB;
+   height: 47px;
+   width: 47px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 24px;
+   -webkit-border-radius: 24px;
+   -moz-border-radius: 24px;
+   -ms-border-radius: 24px;
+   -o-border-radius: 24px;
+   /* display: none; */
+}
+.menuiconi {
+    position: fixed;
+   
+}
+.menu:hover {
+   background-color: #D8DFE8;
+
+}
+
 .email p {
     font-size: 10px;
 }
@@ -33,4 +41,92 @@
 }
 .n {
     margin-bottom: 2rem;
+}
+
+.mesagicon {
+    background-color: #D3E3FD;
+    height: 27px;
+    width: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: radius 14px; ;
+    -webkit-border-radius:14px ;
+    -moz-border-radius:14px ;
+    -ms-border-radius:14px ;
+    -o-border-radius:14px ;
+}
+.email {
+    display: flex;
+    flex-direction: column;  
+   
+   justify-content: center;
+   align-items: center;
+}
+.chaticon {
+    /* background-color: gray; */
+    height: 27px;
+    width: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: radius 14px; ;
+    -webkit-border-radius:14px ;
+    -moz-border-radius:14px ;
+    -ms-border-radius:14px ;
+    -o-border-radius:14px ;
+}
+.chaticon:hover {
+    background-color: #D8DFE8;
+}
+.chat {
+    display: flex;
+    flex-direction: column;  
+   
+   justify-content: center;
+   align-items: center;
+}
+.spaceicon {
+    height: 27px;
+    width: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: radius 14px; ;
+    -webkit-border-radius:14px ;
+    -moz-border-radius:14px ;
+    -ms-border-radius:14px ;
+    -o-border-radius:14px ;
+}
+.spaceicon:hover {
+    background-color: #D8DFE8;
+}
+.space{
+    display: flex;
+    flex-direction: column;  
+   
+   justify-content: center;
+   align-items: center;
+}
+.meeticon {
+    height: 27px;
+    width: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: radius 14px; ;
+    -webkit-border-radius:14px ;
+    -moz-border-radius:14px ;
+    -ms-border-radius:14px ;
+    -o-border-radius:14px ;
+}
+.meeticon:hover {
+    background-color: #D8DFE8;
+}
+.Meet {
+    display: flex;
+    flex-direction: column;  
+   
+   justify-content: center;
+   align-items: center;
 }
